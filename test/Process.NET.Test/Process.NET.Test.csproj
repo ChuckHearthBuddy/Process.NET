@@ -45,6 +45,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChuckTest.cs" />
     <Compile Include="Core\ProcessSharpTest.cs" />
     <Compile Include="Patterns\DwordPatternDataTest.cs" />
     <Compile Include="Patterns\DwordPatternTest.cs" />
